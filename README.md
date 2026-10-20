@@ -1,3 +1,5 @@
+<img width="1000" height="421" alt="image" src="https://github.com/user-attachments/assets/5f28ef3e-97f1-4c05-806e-1a12f1646d0a" />
+
 # X Cookie Scraper API Client 🧪
 
 An enterprise-grade, low-overhead authenticated GraphQL communication interface designed to interface with internal X (Twitter) core routes without paying for the premium \$100/mo API subscription tier. 
